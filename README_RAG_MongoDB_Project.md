@@ -126,20 +126,6 @@ Intelligent search systems
 
 ------------------------------------------------------------------------
 
-## Future Enhancements
-
-Add source citations to show where answers come from
-
-Implement reranking to improve retrieval quality
-
-Add conversational memory for multi-turn interactions
-
-Build a web interface for easier user interaction
-
-Deploy the system as a production AI service
-
-------------------------------------------------------------------------
-
 ## Author
 
 Srina Kasam\
